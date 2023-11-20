@@ -1,9 +1,9 @@
-.MoviePic{
+.moviePic{
 	height:300px;
 	width:auto;
 	opacity:0.8;
 }
-.MovieDetail{
+.movieDetail{
 	position:absolute;
 	top:50%;
 	width:80px;
